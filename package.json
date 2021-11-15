@@ -1,0 +1,28 @@
+{
+    "name": "snake_game",
+    "version": "1.0.0",
+    "description": "Snake Game",
+    "main": "src/index.js",
+    "dependencies": {
+        "create-elm-app": "^5.22.0",
+        "firebase": "^7.21.1",
+        "firebase-app": "0.0.1"
+    },
+    "devDependencies": {
+        "create-elm-app": "^4.2.27"
+    },
+    "scripts": {
+        "build": "elm-app build",
+        "start": "elm-app start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/jrijul1201/snakegame.git"
+    },
+    "author": "Rijul Jain, Prajakta Bhalerao",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://gitlab.com/jrijul1201/snakegame/issues"
+    },
+    "homepage": "https://gitlab.com/jrijul1201/snakegame#readme"
+}
